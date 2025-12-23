@@ -9,5 +9,5 @@ The SketchVision directory is organized as follows:
 | **[src/](./src)** | Source code |
 | **[ML/](./ML)** | Diffusion model training & inference |
 | **[script/](./script)** | Utility scripts |
-| **[models/](https://XX)** | Pretrained models |
-| **[data/](https://XX)** | Example datasets |
+| **[models/](https://zenodo.org/records/17903481)** | Pretrained models |
+| **[data/](https://zenodo.org/records/17903481)** | Example datasets |
