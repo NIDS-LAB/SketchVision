@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/ransombo.data",
+        "label_path": "../data/ransombo.label"
+    }
+}

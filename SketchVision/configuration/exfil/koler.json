@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/koler.data",
+        "label_path": "../data/koler.label"
+    }
+}

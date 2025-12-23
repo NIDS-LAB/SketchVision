@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/mazarbot.data",
+        "label_path": "../data/mazarbot.label"
+    }
+}

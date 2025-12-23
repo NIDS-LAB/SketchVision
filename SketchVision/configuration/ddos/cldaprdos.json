@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/cldaprdos.data",
+        "label_path": "../data/cldaprdos.label"
+    }
+}

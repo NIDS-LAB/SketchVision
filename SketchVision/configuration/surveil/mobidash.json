@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/mobidash.data",
+        "label_path": "../data/mobidash.label"
+    }
+}

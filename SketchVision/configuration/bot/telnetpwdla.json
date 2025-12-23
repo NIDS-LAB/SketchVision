@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/telnetpwdla.data",
+        "label_path": "../data/telnetpwdla.label"
+    }
+}

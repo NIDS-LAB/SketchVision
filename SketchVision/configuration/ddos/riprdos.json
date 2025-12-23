@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/riprdos.data",
+        "label_path": "../data/riprdos.label"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/adload.data",
+        "label_path": "../data/adload.label"
+    }
+}

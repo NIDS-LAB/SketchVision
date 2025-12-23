@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/webcompanion.data",
+        "label_path": "../data/webcompanion.label"
+    }
+}

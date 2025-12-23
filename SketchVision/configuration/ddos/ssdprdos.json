@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/ssdprdos.data",
+        "label_path": "../data/ssdprdos.label"
+    }
+}

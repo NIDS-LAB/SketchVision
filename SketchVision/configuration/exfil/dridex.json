@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/dridex.data",
+        "label_path": "../data/dridex.label"
+    }
+}

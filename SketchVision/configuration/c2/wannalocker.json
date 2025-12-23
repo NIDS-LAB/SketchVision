@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/wannalocker.data",
+        "label_path": "../data/wannalocker.label"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "img_size": [
+    64,
+    64
+  ],
+  "Batch_Size": 32,
+  "EPOCHS": 1000,
+  "T": 2000,
+  "base_channels": 64,
+  "beta_schedule": "cosine",
+  "channel_mults": "",
+  "loss-type": "l2",
+  "loss_weight": "none",
+  "train_start": true,
+  "lr": 1e-4,
+  "random_slice": true,
+  "sample_distance": 800,
+  "weight_decay": 0,
+  "save_imgs": false,
+  "save_vids": false,
+  "dropout": 0,
+  "attention_resolutions": "32,16,8",
+  "num_heads": 4,
+  "num_head_channels": -1,
+  "noise_fn": "gauss",
+  "dataset": "atk",
+  "norm":"generic",
+  "num_classes" : 20,
+  "dataset_mode" : "denoise"
+}

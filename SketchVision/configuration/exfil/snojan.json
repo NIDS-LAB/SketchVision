@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/snojan.data",
+        "label_path": "../data/snojan.label"
+    }
+}

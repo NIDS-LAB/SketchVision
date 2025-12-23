@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/thbot.data",
+        "label_path": "../data/thbot.label"
+    }
+}

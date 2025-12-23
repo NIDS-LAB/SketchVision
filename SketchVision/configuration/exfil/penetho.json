@@ -1,0 +1,6 @@
+{
+    "dataset": {
+        "data_path": "../data/penetho.data",
+        "label_path": "../data/penetho.label"
+    }
+}
