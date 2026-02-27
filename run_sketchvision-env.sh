@@ -10,9 +10,6 @@ ULIMIT_NOFILE=65536  # soft/hard file limit
 # -----------------------------
 if ! command -v docker &> /dev/null
 then
-    echo "Docker is not installed. Please install Docker first."
-    exit 1
-else
   echo "Docker not found. Installing Docker..."
     sudo apt update
     sudo apt install -y apt-transport-https ca-certificates curl gnupg lsb-release
@@ -26,6 +23,9 @@ else
 
     sudo apt update
     sudo apt install -y docker-ce docker-ce-cli containerd.io
+
+  else
+    echo "Docker is already installed."
 fi
 
 if dpkg -l | grep -q nvidia-container-toolkit; then
