@@ -1,7 +1,12 @@
 # SketchVision
+[USENIX NSDI '26](https://www.usenix.org/conference/nsdi26/presentation/mirnajafizadeh)
 
 ## Introduction
 **SketchVision** is a vision-inspired detection framework designed to defend Content Delivery Networks (CDNs) against slow-and-low attacks. It overcomes limitations in edge defense by efficiently monitoring flow behavior and detecting attacks under resource-constrained settings. Using a sketch that encodes packet-level temporal patterns into compact images, a diffusion model for sketch denoising, and a generative inference pipeline, SketchVision achieves early and robust detection across multiple attack types.
+
+<p align="center">
+  <img src="./SketchVision.png" />
+</p>
 
 ---
 
@@ -22,11 +27,12 @@ You can run any script, e.g.:
    invoke -l
    invoke build
    invoke compile
-   invoke run_test
+   invoke run-test
 ===============================
 ```
 
 This confirms that the Docker environment is ready. You can now use invoke commands to build, compile, and run tests.
+Additional details can be found [here](https://github.com/NIDS-LAB/SketchVision/tree/main/SketchVision).
 
 
 
