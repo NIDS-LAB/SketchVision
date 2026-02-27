@@ -4,9 +4,9 @@
 ## Introduction
 **SketchVision** is a vision-inspired detection framework designed to defend Content Delivery Networks (CDNs) against slow-and-low attacks. It overcomes limitations in edge defense by efficiently monitoring flow behavior and detecting attacks under resource-constrained settings. Using a sketch that encodes packet-level temporal patterns into compact images, a diffusion model for sketch denoising, and a generative inference pipeline, SketchVision achieves early and robust detection across multiple attack types.
 
-<p align="center">
-  <img src="./SketchVision.png" />
-</p>
+<!-- <div align="center" style="padding: 12px; border: 1px solid #ddd; border-radius: 12px;">
+  <img src="./SketchVision.png" width="250" height="200"/>
+</div> -->
 
 ---
 
